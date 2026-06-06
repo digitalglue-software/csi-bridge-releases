@@ -2,7 +2,7 @@
 
 Public auto-update feed for the **CSI Bridge** desktop app — the macOS menu-bar
 connector that relinks proxies to original media and launches NLEs for
-[CSI (Creative Space Intelligence)](https://app.creative.space).
+[CSI (Creative Space Intelligence)](https://creative.space).
 
 This repository holds **only signed + notarized release binaries**. The
 application source lives in the private CSI repo. Updates here are consumed
